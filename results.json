@@ -1,0 +1,18 @@
+{
+ "start_capital": 25000.0,
+ "balance": 25000.0,
+ "net": 0,
+ "trades": 0,
+ "wins": 0,
+ "losses": 0,
+ "win_rate": 0,
+ "max_drawdown": 0.0,
+ "sessions": 0,
+ "curve": [],
+ "months": {},
+ "days": [],
+ "trade_rows": [],
+ "last_decisions_day": "",
+ "generated": "2026-11-01 03:20 IST",
+ "status": {}
+}
