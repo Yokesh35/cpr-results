@@ -7,10 +7,18 @@
  "losses": 0,
  "win_rate": 0,
  "max_drawdown": 0.0,
- "sessions": 5,
+ "sessions": 6,
  "curve": [],
  "months": {},
  "days": [
+  {
+   "date": "2026-11-09",
+   "mode": "paper",
+   "result": "not connected",
+   "net": "0.0",
+   "balance": "25000.0",
+   "note": "Angel login: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Max retries exceeded with url: /rest/auth/angelbroking/user/v1/loginByPassword (Caused by ConnectTimeoutError(<HTTPSConnection(host='apiconnect.angelone.in', port=443) at 0x7592ed81fce0>, 'Connection to apiconnect.angelone.in timed out. (connect timeout=7)'))"
+  },
   {
    "date": "2026-11-06",
    "mode": "paper",
@@ -54,11 +62,11 @@
  ],
  "trade_rows": [],
  "last_decisions_day": "",
- "generated": "2026-11-06 09:10 IST",
+ "generated": "2026-11-09 09:10 IST",
  "status": {
   "ok": false,
-  "day": "2026-11-06",
-  "message": "2026-11-06: not connected (Angel login): HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Max retries exceeded with url: /rest/auth/angelbroking/user/v1/loginByPassword (Caused by ConnectTimeoutError(<HTTPSConnection(host='apiconnect.angelone.in', port=443) at 0x791eb5c85c40>, 'Connection to apiconnect.angelone.in timed out. (connect timeout=7)'))",
-  "updated": "2026-11-06 09:10:02"
+  "day": "2026-11-09",
+  "message": "2026-11-09: not connected (Angel login): HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Max retries exceeded with url: /rest/auth/angelbroking/user/v1/loginByPassword (Caused by ConnectTimeoutError(<HTTPSConnection(host='apiconnect.angelone.in', port=443) at 0x7592ed81fce0>, 'Connection to apiconnect.angelone.in timed out. (connect timeout=7)'))",
+  "updated": "2026-11-09 09:10:02"
  }
 }
